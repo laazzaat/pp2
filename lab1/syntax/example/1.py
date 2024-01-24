@@ -4,7 +4,7 @@ if 5 > 2:
 
 #example 2 (Syntax Error)
 if 5 > 2:
-print("Five is greater than two!")
+    print("Five is greater than two!")
 
 #example 3
 if 5 > 2:
