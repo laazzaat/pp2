@@ -15,7 +15,7 @@ if 5 > 2:
 #example 4 (Syntax Error)
 if 5 > 2:
  print("Five is greater than two!") 
-        print("Five is greater than two!")
+ print("Five is greater than two!")
  
 #example 5
 x = 5
