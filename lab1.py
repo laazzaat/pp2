@@ -1,1 +1,1 @@
-print('Lazzat')
+print("Hello, World!")
